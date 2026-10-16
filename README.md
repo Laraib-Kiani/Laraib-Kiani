@@ -1,7 +1,7 @@
 # Hi, I'm Laraib Zahid Kiani 
 
 **AI & Computer Vision Engineer | Full-Stack Developer**
-Bachelor of Artificial Intelligence, University of Wah (2022 – 2026)
+Bachelor of Artificial Intelligence
 
 I build real-world AI systems, from deep learning models to the web platforms that deliver them. My focus is on Computer Vision, Vision Transformers, LLM applications, and clinical decision-support tools.
 
