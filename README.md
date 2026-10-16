@@ -12,10 +12,10 @@ I build real-world AI systems, from deep learning models to the web platforms th
 -  **Lung Cancer Prediction:** CNN–LSTM model trained on Kaggle datasets
 
 ## 🛠️ Tech Stack
-**Languages:** Python, Java, JavaScript, C++
-**AI/ML:** TensorFlow, PyTorch, OpenCV, MediaPipe, YOLOv8, Transformers, LLMs
-**Web:** React.js, Node.js, Express, FastAPI
-**Tools:** Docker, Firebase, Git, GitHub, MongoDB, SQL
+- **Languages:** Python, Java, JavaScript, C++
+- **AI/ML:** TensorFlow, PyTorch, OpenCV, MediaPipe, YOLOv8, Transformers, LLMs
+- **Web:** React.js, Node.js, Express, FastAPI
+- **Tools:** Docker, Firebase, Git, GitHub, MongoDB, SQL
 
 ##  Let's Connect
 - LinkedIn: [Laraib Zahid Kiani](https://linkedin.com/in/laraib-zahid-kiani-7604602a4)
